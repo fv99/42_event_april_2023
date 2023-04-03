@@ -1,0 +1,9 @@
+Ceasar (shift 16): For this exercice you will have to write the password in a symbolum.txt file. 
+1. Base64: Congratulations on decoding this line, the first letter is: k
+2. Atbash: Congratulations on decoding this line, the third letter is: h
+3. Hexadecimal: Congratulations on decoding this line the next character is: 2
+4. NATO Phonetic Alphabet: Congratulations on decoding this line, the next letter is: j
+5. Leetspeak: Congratulations on decoding this line the next letter is F
+6. Playnice (keyword: PLAYNICE): Congratulations on decoding this line, the next letter is: K
+
+kh2JFM
